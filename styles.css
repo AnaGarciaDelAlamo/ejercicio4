@@ -18,22 +18,48 @@ body {
     margin: 2px;
     flex-grow: 1;
     flex-basis: calc(33.333% - 4px);
-    height: 100px; /* You can adjust this value as needed */
     display: flex;
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
 }
 
-/* You can add specific styles for individual divs if necessary */
-#div1 { background-color: red; }
-#div2 { background-color: greenyellow; }
-#div3 { background-color: blue; }
-#div4 { background-color: darkslateblue; }
-#div5 { background-color: rosybrown; }
-#div6 { background-color: paleturquoise; }
-#div7 { background-color: grey; }
-#div8 { background-color: orange; }
-#div9 { background-color: brown;}
+#div1 {
+    background-color: red;
+    height: 120px; /* Altura diferente para el div1 */
+}
+#div2 {
+    background-color: greenyellow;
+    height: 80px; /* Altura diferente para el div2 */
+}
+#div3 {
+    background-color: blue;
+    height: 160px; /* Altura diferente para el div3 */
+}
+#div4 {
+    background-color: darkslateblue;
+    height: 100px; /* Altura diferente para el div4 */
+}
+#div5 {
+    background-color: rosybrown;
+    height: 140px; /* Altura diferente para el div5 */
+}
+#div6 {
+    background-color: paleturquoise;
+    height: 90px; /* Altura diferente para el div6 */
+}
+#div7 {
+    background-color: grey;
+    height: 110px; /* Altura diferente para el div7 */
+}
+#div8 {
+    background-color: orange;
+    height: 70px; /* Altura diferente para el div8 */
+}
+#div9 {
+    background-color: brown;
+    height: 130px; /* Altura diferente para el div9 */
+}
+
 
 
