@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f7f7f7;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    border: 2px solid black;
+    margin: 2px;
+    flex-grow: 1;
+    flex-basis: calc(33.333% - 4px);
+    height: 100px; /* You can adjust this value as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+/* You can add specific styles for individual divs if necessary */
+#div1 { background-color: red; }
+#div2 { background-color: greenyellow; }
+#div3 { background-color: blue; }
+#div4 { background-color: darkslateblue; }
+#div5 { background-color: rosybrown; }
+#div6 { background-color: paleturquoise; }
+#div7 { background-color: grey; }
+#div8 { background-color: orange; }
+#div9 { background-color: brown;}
+
+
