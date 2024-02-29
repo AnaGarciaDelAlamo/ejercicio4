@@ -26,39 +26,39 @@ body {
 
 #div1 {
     background-color: red;
-    height: 120px; /* Altura diferente para el div1 */
+    height: 120px;
 }
 #div2 {
     background-color: greenyellow;
-    height: 80px; /* Altura diferente para el div2 */
+    height: 80px;
 }
 #div3 {
     background-color: blue;
-    height: 160px; /* Altura diferente para el div3 */
+    height: 160px;
 }
 #div4 {
     background-color: darkslateblue;
-    height: 100px; /* Altura diferente para el div4 */
+    height: 100px;
 }
 #div5 {
     background-color: rosybrown;
-    height: 140px; /* Altura diferente para el div5 */
+    height: 140px;
 }
 #div6 {
     background-color: paleturquoise;
-    height: 90px; /* Altura diferente para el div6 */
+    height: 90px;
 }
 #div7 {
     background-color: grey;
-    height: 110px; /* Altura diferente para el div7 */
+    height: 110px;
 }
 #div8 {
     background-color: orange;
-    height: 70px; /* Altura diferente para el div8 */
+    height: 70px;
 }
 #div9 {
     background-color: brown;
-    height: 130px; /* Altura diferente para el div9 */
+    height: 130px;
 }
 
 
