@@ -8,6 +8,11 @@ body, html {
 
 }
 
+img{
+    width:300px;
+    height: 300px;
+}
+
 .header {
     background-color: #FFD700;
     overflow: hidden;
